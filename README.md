@@ -1,6 +1,16 @@
 # LandingPage-iPhone
-<br>
-Preview do projeto:
-<br>
-<br>
-![iPhone](https://user-images.githubusercontent.com/97799788/188238224-1c73152f-efc6-486e-9cd9-f377567fcb65.png)
+![README.md](  )
+
+#### Novo projeto de Pokedex feito com HTML,CSS,JAVASCRIT.
+
+## Recursos
+- Responsivo 100%
+
+## Links:
+- Projeto:https://matheusdesouzasilva70.github.io/Nova-Pokedex/
+- Portfolio:https://matheusdesouzasilva70.github.io/Portfolio/
+- LinkedIn:https://www.linkedin.com/in/matheus-de-souza-silva-288194229/
+
+## Autor:
+**Matheus de Souza Silva**
+
