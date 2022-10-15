@@ -5,7 +5,7 @@
 
 ![README.md](https://github.com/MatheusdeSouzaSilva70/LandingPage-iPhone/blob/main/img/img%20do%20projeto(1).png)
 
-#### Novo projeto de Pokedex feito com HTML,CSS,JAVASCRIT.
+#### Novo projeto de LandingPage-iPhone feito com HTML,CSS,JAVASCRIT.
 
 ## Recursos
 - Não está responsivel.
