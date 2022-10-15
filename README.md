@@ -8,7 +8,7 @@
 #### Novo projeto de Pokedex feito com HTML,CSS,JAVASCRIT.
 
 ## Recursos
-- Responsivo 100%
+- Não está responsivel.
 
 ## Links:
 - Projeto:https://matheusdesouzasilva70.github.io/LandingPage-iPhone/
